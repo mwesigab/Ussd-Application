@@ -1,0 +1,1249 @@
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:47:38 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:47:38 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:52:26 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:52:26 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[13-Dec-2016 22:53:48 Europe/Paris] PHP Stack trace:
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[13-Dec-2016 22:53:48 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:26:41 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:26:41 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:29:18 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:29:18 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:30:44 Europe/Paris] PHP Notice:  Undefined variable: msisdn in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:30:44 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:30:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:30:44 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:30:44 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 28
+[14-Dec-2016 13:30:44 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:30:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:30:44 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: sessionId in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 29
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: serviceCode in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 30
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Notice:  Undefined index: message in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 31
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Notice:  Object of class MoUssdReceiver could not be converted to int in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 31
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:32:19 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:32:19 Europe/Paris] PHP Fatal error:  Uncaught exception 'Exception' with message 'Some of the required parameters are not provided' in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php:41
+Stack trace:
+#0 C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php(6): MoUssdReceiver->__construct()
+#1 {main}
+  thrown in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 41
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Notice:  Object of class MoUssdReceiver could not be converted to int in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 31
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:34:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:34:35 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 66
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:34:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Fatal error:  Call to undefined method MoUssdReceiver::getUssdOperation() in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 67
+[14-Dec-2016 13:34:35 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:34:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Notice:  Object of class MoUssdReceiver could not be converted to int in C:\wamp\www\widsussdprocessor\widsussdtestapp\MoUssdReceiver.php on line 31
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:35:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:35:25 Europe/Paris] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:6
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 66
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:35:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Fatal error:  Call to undefined method MoUssdReceiver::getUssdOperation() in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 67
+[14-Dec-2016 13:35:25 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:35:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:39:44 Europe/Paris] PHP Fatal error:  Call to undefined method MoUssdReceiver::getUssdOperation() in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 74
+[14-Dec-2016 13:39:44 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:39:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Notice:  Undefined index: menu-Opt in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 77
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:45:12 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:45:12 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:45:12 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:45:12 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:40 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:40 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:40 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:40 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:43 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:43 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:43 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:43 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:43 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:43 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:45 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:45 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:45 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:45 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:45 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:46 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:46 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:46 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:46 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:46 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:48 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:48 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:48 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:48 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:48 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:50 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:50 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:50 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:50 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:50 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:56 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 201
+[14-Dec-2016 13:50:56 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 13:50:56 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[14-Dec-2016 13:50:56 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 13:50:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 15:13:55 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 195
+[14-Dec-2016 15:13:55 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 15:13:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 196
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 207
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 208
+[14-Dec-2016 16:29:15 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 196
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 207
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 208
+[14-Dec-2016 16:29:31 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 196
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 207
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 208
+[14-Dec-2016 16:29:33 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 196
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 207
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 208
+[14-Dec-2016 16:29:34 Europe/Paris] PHP Stack trace:
+[14-Dec-2016 16:29:34 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:35:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:35:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 10:35:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:35:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:36:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:36:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 10:36:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:36:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:38:03 Europe/Paris] PHP Notice:  Undefined variable: params1 in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 10:38:03 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:38:03 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:38:03 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 10:38:03 Europe/Paris] PHP Fatal error:  Cannot access empty property in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 10:38:03 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:38:03 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:38:03 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:40:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:40:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 10:40:55 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 10:40:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 11:01:23 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:23 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 11:01:25 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:32 Europe/Paris] PHP Notice:  Use of undefined constant val - assumed 'val' in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 17
+[15-Dec-2016 11:01:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:32 Europe/Paris] PHP   2. weatherParams->setParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:101
+[15-Dec-2016 11:01:32 Europe/Paris] PHP Notice:  Undefined property: weatherParams::$params in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 11:01:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:32 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 11:01:44 Europe/Paris] PHP Notice:  Use of undefined constant val - assumed 'val' in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 17
+[15-Dec-2016 11:01:44 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:44 Europe/Paris] PHP   2. weatherParams->setParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:101
+[15-Dec-2016 11:01:44 Europe/Paris] PHP Notice:  Undefined property: weatherParams::$params in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 11:01:44 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:01:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:01:44 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 11:02:32 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 11:02:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:02:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:02:44 Europe/Paris] PHP Notice:  Undefined property: weatherParams::$params in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 11:02:44 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:02:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:02:44 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 11:03:00 Europe/Paris] PHP Notice:  Undefined property: weatherParams::$params in C:\wamp\www\widsussdprocessor\widsussdtestapp\weatherParams.php on line 21
+[15-Dec-2016 11:03:00 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:03:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:03:00 Europe/Paris] PHP   2. weatherParams->getParams1() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:103
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 11:04:15 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 202
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 213
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 214
+[15-Dec-2016 11:04:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:04:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:24:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:24:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:24:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:24:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:25:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:25:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:25:54 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:25:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:31:09 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:09 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:31:11 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:13 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:13 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:31:13 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:13 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:31:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:31:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 224
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 235
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:39:26 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 224
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 235
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:39:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 224
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:42 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 235
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:42 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:39:42 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:39:42 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:42:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:42:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:42:38 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:42:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 225
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:43:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 236
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:43:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:43:08 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:43:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 238
+[15-Dec-2016 11:45:29 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 237
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 238
+[15-Dec-2016 11:45:31 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:45:31 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:48:44 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:48:44 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:48:44 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:52:00 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:52:00 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:52:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:52:37 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:52:37 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:52:37 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:55:07 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:55:07 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:55:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:55:28 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:55:28 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:55:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:57:40 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:57:40 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:57:40 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:57:42 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:57:42 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:57:42 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 11:58:39 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 11:58:39 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 11:58:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:04:41 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:04:41 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:04:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:04:43 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:04:43 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:04:43 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:06:07 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:06:07 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:06:07 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:07:04 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:07:04 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:07:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:12:26 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:12:26 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:12:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 12:12:29 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 12:12:29 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 12:12:29 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:25:27 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 226
+[15-Dec-2016 13:25:27 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:25:27 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:46:41 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:46:41 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:46:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:46:51 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:46:51 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:46:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:47:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:47:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:47:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:15 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:16 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:16 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:16 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:17 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:17 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:18 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:18 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 13:51:19 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 227
+[15-Dec-2016 13:51:19 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 13:51:19 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:29:30 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 228
+[15-Dec-2016 14:29:30 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:29:30 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:30:30 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:30:30 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:30:30 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:30:32 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:30:32 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:30:32 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:30:33 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:30:33 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:30:33 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:30:35 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:30:35 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:30:35 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:30:36 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:30:36 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:30:36 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:00 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:00 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:00 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:47 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:47 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:47 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:49 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:49 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:49 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:51 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:51 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:51 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:56 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:56 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:56 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:58 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:58 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:58 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:31:59 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:31:59 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:31:59 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:32:38 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:32:38 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:32:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:33:15 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:33:15 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:33:15 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:34:03 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:34:03 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:34:03 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:34:06 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:34:06 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:34:06 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:39:39 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:39:39 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:39:39 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:39:41 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:39:41 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:39:41 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 14:40:11 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 14:40:11 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 14:40:11 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 15:33:05 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 15:33:05 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 15:33:05 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 15:33:38 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 15:33:38 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 15:33:38 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 15:51:54 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 15:51:54 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 15:51:54 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 17:43:04 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 17:43:04 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 17:43:04 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[15-Dec-2016 22:15:08 Europe/Paris] PHP Notice:  Undefined index:  in C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php on line 229
+[15-Dec-2016 22:15:08 Europe/Paris] PHP Stack trace:
+[15-Dec-2016 22:15:08 Europe/Paris] PHP   1. {main}() C:\wamp\www\widsussdprocessor\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:32:38 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 108
+[25-May-2017 19:33:56 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 108
+[25-May-2017 19:49:53 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[25-May-2017 20:09:50 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:11:33 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:11:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:11:39 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[25-May-2017 20:23:45 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[25-May-2017 20:25:08 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:25:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:29:15 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:29:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:29:18 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:29:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:32:26 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:32:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:32:27 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:32:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:39:15 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 20:39:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 31
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 32
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: userid in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 33
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 31
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:24 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 32
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:24 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:24 UTC] PHP Notice:  Undefined index: userid in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 33
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:24 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:24 UTC] PHP Warning:  session_start(): Cannot start session with empty session ID in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:24 UTC] PHP Stack trace:
+[25-May-2017 19:04:24 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:24 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:04:39 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:39 UTC] PHP Stack trace:
+[25-May-2017 19:04:39 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:39 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:39 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:39 UTC] PHP Stack trace:
+[25-May-2017 19:04:39 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:39 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:39 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:39 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:39 UTC] PHP Stack trace:
+[25-May-2017 19:04:39 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:39 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:04:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:39 UTC] PHP Stack trace:
+[25-May-2017 19:04:39 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:39 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:04:47 UTC] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 31
+[25-May-2017 19:04:47 UTC] PHP Stack trace:
+[25-May-2017 19:04:47 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:47 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:47 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:47 UTC] PHP Stack trace:
+[25-May-2017 19:04:47 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:47 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:47 UTC] PHP Notice:  Undefined index: MSISDN in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 31
+[25-May-2017 19:04:47 UTC] PHP Stack trace:
+[25-May-2017 19:04:47 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:47 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:47 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:47 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:47 UTC] PHP Stack trace:
+[25-May-2017 19:04:47 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:47 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:47 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:47 UTC] PHP Warning:  session_start(): Cannot start session with empty session ID in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:47 UTC] PHP Stack trace:
+[25-May-2017 19:04:47 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:47 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:04:55 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:55 UTC] PHP Stack trace:
+[25-May-2017 19:04:55 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:55 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:04:55 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:04:55 UTC] PHP Stack trace:
+[25-May-2017 19:04:55 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:55 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:04:55 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:04:55 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:55 UTC] PHP Stack trace:
+[25-May-2017 19:04:55 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:55 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:04:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:04:55 UTC] PHP Stack trace:
+[25-May-2017 19:04:55 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:04:55 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:23:50 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:23:50 UTC] PHP Stack trace:
+[25-May-2017 19:23:50 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:23:50 UTC] PHP   2. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:10
+[25-May-2017 19:23:50 UTC] PHP Notice:  Undefined index: MSC in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 35
+[25-May-2017 19:23:50 UTC] PHP Stack trace:
+[25-May-2017 19:23:50 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:23:50 UTC] PHP   2. UssdLogic->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:13
+[25-May-2017 19:23:50 UTC] PHP   3. MoUssdReceiver->__construct() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:25
+[25-May-2017 19:23:50 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:23:50 UTC] PHP Stack trace:
+[25-May-2017 19:23:50 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:23:50 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 19:23:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php:35) in C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 18
+[25-May-2017 19:23:50 UTC] PHP Stack trace:
+[25-May-2017 19:23:50 UTC] PHP   1. {main}() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:0
+[25-May-2017 19:23:50 UTC] PHP   2. session_start() C:\wamp\www\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php:18
+[25-May-2017 22:16:12 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[25-May-2017 22:16:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('137')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[26-May-2017 06:10:04 Europe/Berlin] PHP Notice:  Undefined variable: receiver in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[26-May-2017 06:10:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getInput() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:214
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 214
+[26-May-2017 06:13:22 Europe/Berlin] PHP Notice:  Undefined variable: logic in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 217
+[26-May-2017 06:13:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function Display() on null in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:217
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(118): UssdLogic->ProcessAgriculAdvisory('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 217
+[26-May-2017 06:56:19 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UssdLogic::Feedback(), 1 passed in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 137 and exactly 2 expected in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:301
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(137): UssdLogic->Feedback('2')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 301
+[28-May-2017 21:00:29 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 480
+[17-Jun-2017 08:10:40 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 480
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:33 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[17-Jun-2017 10:29:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 83
+[17-Jun-2017 10:33:20 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:35:09 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:35:28 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:36:22 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:43:14 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:51:04 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:53:23 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[17-Jun-2017 10:53:28 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:56:56 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 02:57:35 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Notice:  Undefined property: MoUssdReceiver::$INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 84
+[26-Jun-2017 03:00:19 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:01:01 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:01:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:01:42 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:06:25 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:19:27 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:19:34 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 03:21:18 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[26-Jun-2017 04:16:51 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[26-Jun-2017 04:17:06 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[30-Jun-2017 11:54:15 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[30-Jun-2017 11:54:15 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[30-Jun-2017 11:54:15 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[13-Jul-2017 13:53:42 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 480
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:54:56 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:55:04 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 36
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: INPUT in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 37
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: SESSIONID in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 39
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Notice:  Undefined index: TYPE in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\MoUssdReceiver.php on line 40
+[13-Jul-2017 13:55:10 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[10-Aug-2017 07:13:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[10-Aug-2017 07:14:02 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[10-Aug-2017 07:14:04 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 170
+[10-Aug-2017 07:17:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::num_rows() in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:158
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '30064')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 158
+[10-Aug-2017 07:21:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysql_query() in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:157
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '30064')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 157
+[10-Aug-2017 07:24:27 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 267
+[10-Aug-2017 07:48:12 Europe/Berlin] PHP Notice:  Use of undefined constant row - assumed 'row' in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 164
+[10-Aug-2017 07:48:12 Europe/Berlin] PHP Warning:  Illegal string offset 'Location' in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 164
+[10-Aug-2017 08:06:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:06:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '3064')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:08:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:08:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '3064')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:08:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:08:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '3064')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:11:51 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[10-Aug-2017 08:12:29 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:12:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '306333')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:16:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:16:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '306333')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:16:49 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 08:16:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(263): DBQueryFunctions->SelectAdvisory('2567798012345', '306333')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(123): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 08:32:42 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 498
+[10-Aug-2017 08:33:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function UssdLogic::AdviseImpact(), 1 passed in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 142 and exactly 2 expected in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php:392
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(142): UssdLogic->AdviseImpact('1')
+#1 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 392
+[10-Aug-2017 09:39:32 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[10-Aug-2017 09:39:43 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 109
+[10-Aug-2017 09:40:47 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 110
+[10-Aug-2017 09:40:49 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 110
+[10-Aug-2017 09:43:56 Europe/Berlin] PHP Notice:  Undefined index: menu-Opt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 111
+[10-Aug-2017 10:07:10 Europe/Berlin] PHP Notice:  Undefined variable: menuOpt in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php on line 199
+[10-Aug-2017 10:08:12 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php on line 174
+[10-Aug-2017 10:08:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 10:08:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(275): DBQueryFunctions->SelectAdvisory('2567798012345', '7')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(127): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 10:10:08 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 10:10:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(275): DBQueryFunctions->SelectAdvisory('2567798012345', '3455253')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(127): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 10:15:13 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 10:15:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(275): DBQueryFunctions->SelectAdvisory('2567798012345', '090905253')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(126): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[10-Aug-2017 10:17:11 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 169
+[10-Aug-2017 10:17:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php:161
+Stack trace:
+#0 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php(94): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdLogic.php(275): DBQueryFunctions->SelectAdvisory('2567798012345', '0905253')
+#2 C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\UssdAppMain.php(126): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\widsussdprocessorAirtel\widsussdtestapp\DBQueryFunctions.php on line 161
+[18-Oct-2017 03:50:44 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[18-Oct-2017 03:55:44 Europe/Berlin] PHP Warning:  mysqli::__construct(): MySQL server has gone away in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:55:44 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=8040 in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:55:44 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:55:44 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): MySQL server has gone away in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=8040 in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 111
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ussdapp\UssdAppMain.php on line 21
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ussdapp\UssdAppMain.php on line 21
+[18-Oct-2017 03:58:32 Europe/Berlin] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\ussdapp\UssdAppMain.php on line 21
+[07-Feb-2018 05:35:33 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 05:35:33 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 05:35:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 05:44:36 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 05:44:36 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 05:44:36 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$ in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 05:44:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:33 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:41:33 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:33 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$ in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:52 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:41:52 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:52 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$ in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:41:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:43:36 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:43:36 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:43:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:55:08 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:55:08 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:55:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:57:12 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:57:12 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:57:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:58:11 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:58:11 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:58:11 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$ in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:58:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:58:55 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 06:58:55 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 06:58:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:110
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(58): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[07-Feb-2018 07:13:13 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 07:13:13 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 115
+[07-Feb-2018 07:13:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:115
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(63): DBQueryFunctions->Insertion_UpdateQuerys('UPDATE  ussdtra...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(517): DBQueryFunctions->UpdateUssdTran('2567798012345', '30064', 'Location', NULL)
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(156): UssdLogic->Regions('137')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 115
+[07-Feb-2018 07:13:55 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 517
+[07-Feb-2018 07:27:24 Europe/Berlin] PHP Notice:  Undefined variable: connStrObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 137
+[07-Feb-2018 07:27:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function ConnectionFc() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:137
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(76): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(279): DBQueryFunctions->SelectAdvisory('2567798012345', '399064')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(127): UssdLogic->SubmissionOpt('1')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 137
+[07-Feb-2018 07:29:42 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 07:31:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 07:32:10 Europe/Berlin] PHP Recoverable fatal error:  Object of class mysqli could not be converted to string in C:\xampp\htdocs\ussdapp\connectionStr.php on line 23
+[07-Feb-2018 07:33:07 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 07:38:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 07:40:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 07:48:16 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\xampp\htdocs\ussdapp\UssdAppMain.php on line 174
+[07-Feb-2018 07:49:43 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 141
+[07-Feb-2018 08:08:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 89
+[07-Feb-2018 08:08:01 Europe/Berlin] PHP Notice:  Undefined variable: smsApiObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 102
+[07-Feb-2018 08:08:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function sendMessage() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:102
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(154): DBQueryFunctions->getAdvisoryAndLogMessage('Select * from  ...', Object(mysqli))
+#1 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(76): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#2 C:\xampp\htdocs\ussdapp\UssdLogic.php(279): DBQueryFunctions->SelectAdvisory('2567798012345', '354992064')
+#3 C:\xampp\htdocs\ussdapp\UssdAppMain.php(127): UssdLogic->SubmissionOpt('1')
+#4 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 102
+[07-Feb-2018 09:32:32 Europe/Berlin] PHP Notice:  Undefined variable: PhoneNumber in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 96
+[07-Feb-2018 09:32:32 Europe/Berlin] PHP Notice:  Undefined variable: smsApiObject in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 98
+[07-Feb-2018 09:32:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function sendMessage() on null in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:98
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(158): DBQueryFunctions->getAdvisoryAndLogMessage('Select * from  ...', Object(mysqli))
+#1 C:\xampp\htdocs\ussdapp\DBQueryFunctions.php(79): DBQueryFunctions->SelectQuerys('Select * from  ...')
+#2 C:\xampp\htdocs\ussdapp\UssdLogic.php(280): DBQueryFunctions->SelectAdvisory('256791088012345', '454562064')
+#3 C:\xampp\htdocs\ussdapp\UssdAppMain.php(127): UssdLogic->SubmissionOpt('1')
+#4 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 98
+[12-Feb-2018 09:53:24 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:02:48 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 145
+[12-Feb-2018 10:02:48 Europe/Berlin] PHP Notice:  Undefined variable: mainmenu in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 156
+[12-Feb-2018 10:06:10 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 145
+[12-Feb-2018 10:06:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '111090094', '2677978345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:19:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '111090094', '2677978345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:28:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('agricultural-ad...')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('agricultural-ad...')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('1', '399064', '2567798012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:29:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:33:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:33:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:34:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:35:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:35:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:45:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:45:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:147
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(154): DBQueryFunctions->loadUssdMenu('main')
+#1 C:\xampp\htdocs\ussdapp\UssdLogic.php(210): UssdLogic->Display('main')
+#2 C:\xampp\htdocs\ussdapp\UssdAppMain.php(115): UssdLogic->ProcessMainMenu('127', '3998784', '2560098012345')
+#3 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 147
+[12-Feb-2018 10:53:00 Europe/Berlin] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 144
+[13-Feb-2018 15:57:45 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 153
+[13-Feb-2018 16:01:09 Europe/Berlin] PHP Notice:  Undefined variable: menuOptVal in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 453
+[13-Feb-2018 17:19:19 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 80
+[13-Feb-2018 19:14:29 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\ussdapp\MoUssdReceiver.php on line 36
+[13-Feb-2018 19:14:30 Europe/Berlin] PHP Notice:  Undefined index: SHORTCODE in C:\xampp\htdocs\ussdapp\MoUssdReceiver.php on line 36
+[14-Feb-2018 08:48:33 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 108
+[14-Feb-2018 08:48:33 Europe/Berlin] PHP Notice:  Undefined variable: number in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 121
+[14-Feb-2018 12:01:46 Europe/Berlin] PHP Notice:  Undefined index: description in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 110
+[14-Feb-2018 19:06:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function checkIfSessionAlreadyLogged() in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php:46
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdLogic.php(145): DBQueryFunctions->LogUssdTran('707809099', '85099888', '1', 'agricultural-ad...')
+#1 C:\xampp\htdocs\ussdapp\UssdAppMain.php(49): UssdLogic->ProcessMainMenu('1', '85099888', '707809099')
+#2 {main}
+  thrown in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 46
+[15-Feb-2018 00:45:25 Europe/Berlin] PHP Notice:  Undefined property: DBQueryFunctions::$LogUssdTran in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 148
+[15-Feb-2018 00:45:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function LogUssdmaintran() on null in C:\xampp\htdocs\ussdapp\UssdLogic.php:148
+Stack trace:
+#0 C:\xampp\htdocs\ussdapp\UssdAppMain.php(49): UssdLogic->ProcessMainMenu('127', '823899888', '0007809099')
+#1 {main}
+  thrown in C:\xampp\htdocs\ussdapp\UssdLogic.php on line 148
+[15-Feb-2018 03:20:11 Europe/Berlin] PHP Notice:  Trying to get property 'num_rows' of non-object in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 148
+[15-Feb-2018 03:20:11 Europe/Berlin] PHP Notice:  Undefined variable: number in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 161
+[15-Feb-2018 04:38:54 Europe/Berlin] PHP Notice:  Undefined variable: queryStr in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 87
+[15-Feb-2018 04:38:54 Europe/Berlin] PHP Warning:  mysqli::query(): Empty query in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 177
+[15-Feb-2018 04:38:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function loadUssdSender() in C:\xampp\htdocs\ussdapp\UssdAppMain.php:117
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\ussdapp\UssdAppMain.php on line 117
+[15-Feb-2018 05:11:16 Europe/Berlin] PHP Warning:  mysqli::query(): Empty query in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 178
+[15-Feb-2018 05:11:16 Europe/Berlin] PHP Notice:  Undefined variable: ret in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 183
+[15-Feb-2018 05:14:19 Europe/Berlin] PHP Warning:  mysqli::query(): Empty query in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 178
+[01-Mar-2018 10:00:49 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\ussdapp\connectionStr.php on line 12
+[19-Mar-2018 18:31:15 Europe/Berlin] PHP Notice:  Undefined variable: status in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 82
+[19-Mar-2018 18:31:15 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 396
+[19-Mar-2018 18:31:15 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 399
+[19-Mar-2018 18:31:15 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 402
+[19-Mar-2018 18:38:27 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 396
+[19-Mar-2018 18:38:27 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 399
+[19-Mar-2018 18:38:27 Europe/Berlin] PHP Notice:  Undefined index: language in C:\xampp\htdocs\ussdapp\DBQueryFunctions.php on line 402
+[29-Jun-2018 16:42:50 Europe/Berlin] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\xampp\htdocs\ussdapp\connectionStr.php on line 13
+[17-Aug-2018 06:59:10 America/New_York] PHP Notice:  Undefined variable: menuName in /var/www/html/ussdapp/UssdLogic.php on line 361

@@ -1,0 +1,600 @@
+<?php 
+ninclude_once 'MoUssdReceiver.php';
+include_once 'ussdlog.php';
+include_once 'weatherParams.php';
+include_once 'DBQueryFunctions.php';
+include_once 'UssdAppMain.php';
+
+$receiver = new MoUssdReceiver(); // Create the Receiver object
+$weatherparams = new weatherParams();
+$dbFunctions = new DBQueryFunctions();
+
+$message = $receiver->getInput(); // get the message content
+$sessionId = $receiver->getMSISDN(); // get the session ID;
+$msisdn = $receiver->getMSISDN(); // get the phone number
+//$serviceCode = $receiver->getMSC(); // get the service code
+
+class UssdLogic extends DBQueryFunctions{ 
+
+
+
+public function __construct(){
+
+$this->DBQueryFunctions = new DBQueryFunctions;
+$this->MoUssdReceiver = new MoUssdReceiver;
+
+$message = $this->MoUssdReceiver->getInput(); // get the message content
+$sessionId = $this->MoUssdReceiver->getSessionId(); // get the session ID;
+$msisdn = $this->MoUssdReceiver->getMSISDN(); // get the phone number
+//$serviceCode = $this->MoUssdReceiver->getMSC(); // get the service code
+$date = new DateTime();
+
+
+}
+
+
+function menu(){
+
+}  
+
+
+function DisplayAdvisory($messageDisplayed){
+
+
+ try{
+   echo $messageDisplayed;
+    }catch (Exception $ex){
+header('Content-Type: application/x-www-form-urlencoded');
+ header('Flow-Control: end');
+        echo "Exception Occured";
+       // echo "Error Message".$ex->getTraceAsString();
+    }
+
+
+}  
+
+function Display($menuName){
+$responseMsg = "";//$this->menu();
+$regionDetails = "";
+
+ try{
+    $menuItemArray = null;
+    
+    if($menuName != null){
+if($menuName == "End" || $menuName == "Cancel"){
+
+header('Content-Type: application/x-www-form-urlencoded');
+header('Flow-Control: end');
+//http_response_code(201);
+}else{
+    
+header('Content-type: text/plain');
+header('Flow-Control: continue');
+
+}
+
+if($menuName == "regions"){
+   
+   $menuName = "district";
+   $responseMsg = $this->DBQueryFunctions->loadUssdMenu($menuName);
+   
+}else if($menuName == "Submission-opt"){
+
+ $regionDetails = $_SESSION['regionparams'] ;
+$responseMsg = $this->DBQueryFunctions->loadUssdMenu($menuName);
+$responseMsg = $regionDetails[0]."-".$responseMsg;
+
+} else {
+
+$responseMsg = $this->DBQueryFunctions->loadUssdMenu($menuName);
+ 
+}
+
+$menuItemArray =explode("-",$responseMsg);
+    foreach($menuItemArray as $item)
+    {
+   
+   $strToDisp.=$item . '<br>';
+ //echo $strToDis p;
+ 
+ //print trim($strToDisp);
+//print "\n";
+ 
+
+    }
+print $strToDisp;
+
+
+}else{
+
+    header('Content-Type: application/x-www-form-urlencoded');
+     header('Flow-Control: end');
+    $responseMsg = $this->DBQueryFunctions->loadUssdMenu("Cancel");
+    $menuItemArray =explode("-",$responseMsg);
+    foreach($menuItemArray as $item)
+    {
+
+    echo $item."\n";
+
+    }    
+}
+    }catch (Exception $ex){
+header('Content-Type: application/x-www-form-urlencoded');
+header('Flow-Control: end');
+        
+        echo "Exception Error In Application";
+    }
+
+
+}  
+
+
+function ProcessMainMenu($input,$sessionId,$msisdn) {
+	$menuName = null;
+	
+	 switch ($input) {
+                case "1":
+                    $menuName = "agricultural-advisory";
+                   
+                    break;
+                case "2":
+               	  
+                    $menuName = "food-advisory";
+                  
+                    break;
+                case "3":
+                    $menuName = "weather-forecast";
+                    
+                    break;
+                case "4":
+                    $menuName = "give-feedback";
+                    
+                                       
+                    break;
+                
+                default:
+                    $menuName = "main";
+                    
+                    break;
+//                    case "0":
+//                        $menuName = "main";
+//                        break;
+//                case "00":
+//                    $menuName = $this->getPreviousMenu();
+//                    break;
+//                default:
+//                    $menuName = "invalidinput";
+//                    
+//                    break;
+            }
+            
+				
+				if($menuName != "main"){
+				
+           	$this->DBQueryFunctions->LogUssdTran($msisdn,$sessionId,$input,$menuName);
+                $this->Display($menuName);
+                                        }else{
+                                            
+                                   
+                }				
+				return $menuName;
+}
+
+function ProcessLanguage($input,$sessionId,$msisdn){
+$menuName = null;	
+    switch ($input) {
+                case "1":
+                    $_SESSION['language'] = "english";
+                    $menuName = "main";
+				//$this->Display($menuName);
+				break;
+                case "2":
+                     $_SESSION['language'] = "luganda";
+                    $menuName = "main";
+                   // $this->Display($menuName);
+                break;
+                default:
+                    
+                     $_SESSION['language'] = "";
+                    $menuName = "language";
+                    
+                    break;
+                    
+	 }
+         
+          $resultFn = $this->DBQueryFunctions->LogUssdmaintran($msisdn,$sessionId);
+                
+                if($resultFn != "0"){
+                   header('Content-Type: application/x-www-form-urlencoded');
+     header('Flow-Control: end'); 
+     echo 'APPLICATION ERROR';
+                }else{
+                    $this->Display($menuName);
+                }
+                   
+         
+         
+         
+         return $menuName;
+	
+}
+
+function InitialiseGlobalTable($menuOpt) {
+	
+	$tableName = null;
+
+				switch($menuOpt) {
+					
+					case "agricultural-advisory":
+						$tableName = "AgriculturalAdvisoryRequests";
+						break;
+					case "food-advisory":
+						$tableName = "FoodAdvisory";
+						break;
+					case "weather-forecast":
+						$tableName = "WeatherForecast";
+						break;
+					case "give-feedback":
+						$tableName = "FeedBack";
+						break;
+					case "Default":
+					$tableName = "AgriculturalAdvisoryRequests";
+						break;
+}
+return $tableName;
+
+
+}
+
+function ProcessAgriculAdvisory($menuOpt){
+$menuName = null;
+$menuOptVal= null;
+
+ switch ($menuOpt) {
+                case "1" || "2" || "3" ||"00" :
+                    $menuName = "regions";
+                    switch ($menuOpt){
+                        case "1":
+                            //$menuOptVal = "PlantingAdvice";
+                            $menuOptVal = "5";
+                            break;
+                        case "2":
+                           // $menuOptVal = "HarvestingAdvice";
+                            $menuOptVal = "6";
+                            break;
+                        case "3":
+                            //$menuOptVal = "PestsAndDiseases";
+                            $menuOptVal = "7";
+                            break;
+                        case "00":
+                            //$menuOptVal = "PestsAndDiseases";
+                             $menuName = "main";
+                            $menuOptVal = "";
+                            break;
+                          default:
+                             $menuName = "invalidinput";
+                             $menuOptVal = "";
+                    
+                    break;
+                        
+
+
+                    }
+                    $this->Display($menuName);
+                    //$dbFunctions->UpdateUssdTran($msisdn,$sessionId,$globalTable,"Level2",$menuOpt);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1",$menuOptVal);
+                    break;
+               
+              
+            }
+        return $menuName;
+
+
+
+}
+
+function SubmissionOpt($menuOpt) {
+	$menuName = null;
+	
+ switch ($menuOpt) {
+                case "1" :
+                    $menuName = "End";
+                    $this->DBQueryFunctions->SelectAdvisory($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver-> getSessionId());
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver-> getSessionId(),"Level7","1");
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver-> getSessionId(),"Level6",$_SESSION['language']);
+
+                    $this->Display($menuName);
+                    break;
+                    
+                    case "2" :
+                    $menuName = "Cancel";
+                        $menuOptVal = "CancelRequest";
+                    $this->Display($menuName);
+                   $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level7","2");
+                    break;
+               
+                default:
+                    $menuName = "invalidinput";
+                    $menuOptVal = "";
+                   $this->Display($menuName);
+                     //$dbFunctions->UpdateUssdTran($msisdn,$sessionId,$globalTable,"Level6","2");
+                     
+                      $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level3",$menuOptVal);
+                    break;
+            }
+           
+	return $menuName;
+}
+
+function FoodAdvisory($menuOpt) {
+
+
+ switch ($menuOpt) {
+                case "1" || "2" || "3" ||  "00": 
+                    $menuName = "regions";
+                    switch ($menuOpt){
+                     case "1":
+                           // $menuOptVal = "FoodSecurityTips";
+                            $menuOptVal = "1";
+                            break;
+                        case "2":
+                           // $menuOptVal = "HungerForecast";
+                            $menuOptVal = "3";
+                            break;
+                        case "3":
+                           //$menuOptVal = "FoodStorageTips";
+                            $menuOptVal = "4";
+                            break;
+                         case "00":
+                           //$menuOptVal = "FoodStorageTips";
+                            $menuName = "main";
+                            $menuOptVal = "";
+                            break;
+                         default:
+                    $menuName = "invalidinput";
+                   $menuOptVal = "";
+                    break;
+                         
+
+                    }
+
+
+                    
+                   $this->Display($menuName);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1",$menuOptVal);
+                    break;
+               
+            }
+            
+return $menuName;
+}
+
+function WeatherForecast($menuOpt) {
+
+$menuName = null;
+$menuOptVal= null;
+  switch ($menuOpt) {
+                case "1" || "2" || "3" || "00":
+                    $menuName = "regions";
+                    switch ($menuOpt){
+
+                        case "1":
+                            $menuOptVal = "Daily";
+                            break;
+                        case "2":
+                            $menuOptVal = "Dekadal";
+                            break;
+                        case "3":
+                            $menuOptVal = "Seasonal";
+                            break;
+                        case "00":
+                            $menuName = "regions";
+                            $menuOptVal = "";
+                            break;
+                        default:
+                            $menuName = "invalidinput";
+                            $menuOptVal = "";
+                   
+                    break;
+                        
+                    }
+                    
+                   $this->Display($menuName);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1",$menuOptVal);
+                    break;
+             
+            }
+          
+
+
+return $menuName;
+}
+
+function Feedback($menuOpt) {
+	
+	$menuName = null;
+	 switch ($menuOpt) {
+                case "1":
+                    $menuName = "advise-impact";
+                    $menuOptVal = "ImpactOfForecast";
+                    $this->Display($menuName);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1", $menuOptVal);
+                  
+                    break;
+               
+                      case "2":
+                     $menuName = "indigenous-contribution";
+                    $menuOptVal = "IndigenousContribution";
+		    $this->Display($menuName);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1",$menuOptVal);
+                  
+                   break;
+                case "00":
+                     $menuName = "main";
+                    $menuOptVal = "";
+		    $this->Display($menuName);
+                   // $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level1",$menuOptVal);
+                  
+               
+                default:
+                    $menuName = "invalidinput";
+                     $menuOptVal = "";
+                  $this->Display($menuName);
+                    break;
+            }  
+                   
+           return $menuName;
+        }
+function AdviseImpact($menuOpt) {        
+         $menuName = null;
+			         
+         switch ($menuOpt) {
+                case "1" || "2" || "3" || "4" || "0":
+                    $menuName = "regions";
+                    switch ($menuOpt){
+                        case "1":
+                           // $menuOptVal = "LakeVictoriaBasin";
+						   $menuOptVal = "3";
+						   $selectOpt = "Helpful and accurate";
+                            break;
+                        case "2":
+                           // $menuOptVal = "Western";
+							$menuOptVal = "5";
+							$selectOpt = "Accurate but not helpful";
+                            break;
+                        case "3":
+                           // $menuOptVal = "Central";
+							$menuOptVal ="4";
+							$selectOpt = "Helpful but not accurate";
+                            break;
+                        case "4":
+                            //$menuOptVal = "Northern";
+							$menuOptVal ="7";
+							$selectOpt = "Not helpful and not accurate";
+                            break;
+                        case "0":
+                            //$menuOptVal = "Northern";
+                             $menuName = "advise-impact";
+                            
+							$menuOptVal ="";
+							$selectOpt = "";
+                            break;
+                        default:
+                    $menuName = "invalidinput";
+                   $selectOpt = "";
+                    break;
+                       
+                    }
+                   $this->Display($menuName);
+                     $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level2",$selectOpt);
+                    break;
+                
+            }
+         return $menuName;
+        
+     }
+     
+
+     function IndiginousContribution($menuOpt){
+     
+     
+      switch ($menuOpt) {
+                case "1" || "2" || "3" || "4" || "0":
+                    $menuName = "regions";
+                    switch ($menuOpt){
+                        case "1":
+                            $menuOptVal = "Thick mist,very warm nights,birds from west to east";
+                            break;
+                        case "2":
+                            $menuOptVal = "leaves shedoff,dry winds,misty scanty rains";
+                            break;
+                        case  "3":
+                            $menuOptVal = "Time to plant and plough land";
+                            break;
+                        case "4":
+                            $menuOptVal = "Time to harvest,clear clouds";
+                            
+                             default:
+                    $menuName = "invalidinput";
+                      $menuOptVal = "";
+                    
+                    break;
+
+                    }
+                    $this->Display($menuName);
+                    $this->DBQueryFunctions->UpdateUssdTran($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),"Level2",$menuOptVal);
+                    break;
+               
+
+            }
+          
+      return $menuName;
+     
+     }
+     
+  
+     function invaliddistrict($menuOpt){
+         $menuName = "";
+         if($menuOpt== "0"){
+             
+             $menuName = "district";
+              $this->Display($menuName);
+         } else {
+             
+              $menuName = "invalidinput";
+              $this->Display($menuName);
+         }
+         
+        return $menuName;  
+     }
+    
+   function invalidinput($menuOpt){
+         $menuName = "";
+         if($menuOpt== "00"){
+             
+             $menuName = "main";
+            //  $this->Display($menuName);
+         } else {
+             
+              $menuName = "invalidinput";
+//              $this->Display($menuName);
+         }
+         
+ 	$this->Display($menuName);  
+        return $menuName;
+     }
+       
+     
+   function Regions($menuOpt){
+     
+     $menuName = "";
+     //$dbFunctions = new DBQueryFunctions();
+     if($menuOpt == "0"){
+        $menuName = "main";
+           $this->Display($menuName);
+     }else{
+      $regionDetails = $this->DBQueryFunctions->getDistrictDetails($menuOpt);
+      
+      
+      if($regionDetails == ""){
+          //header('Content-Type: application/x-www-form-urlencoded');
+    // header('Flow-Control: end');
+         
+           $menuName = "invaliddistrict";
+           $this->Display($menuName);
+          
+      }else{
+          $_SESSION["regionparams"] = "";
+           $menuName = "Submission-opt";
+//                   
+           $_SESSION["regionparams"] = $regionDetails;
+           $this->Display($menuName);
+           $this->DBQueryFunctions->UpdateUssdTranRegionIds($this->MoUssdReceiver->getMSISDN(),$this->MoUssdReceiver->getSessionId(),$regionDetails[1],$regionDetails[2],$regionDetails[3]);
+         
+           
+      }
+     }
+          return $menuName;  
+     }
+
+}

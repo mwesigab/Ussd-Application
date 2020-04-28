@@ -1,0 +1,482 @@
+[ content=, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Previous Menu is := 
+[ content=, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Previous Menu is := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option
+                    1.Planting advice
+                    2.Harvesting advice
+                    3.Pests and Diseases
+                    00.Back
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=23223, phonenumber=12345, servicecode=5768745]
+Selected response message := 1.Agricultural Advisory
+                    2.Food Advisory
+                    3.Weather Forecast
+                    4.Give Feedback
+                    0.Exit
+[ content=1, sessionId=23223, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option
+                    1.Planting advice
+                    2.Harvesting advice
+                    3.Pests and Diseases
+                    00.Back
+[ content=3, sessionId=23223, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 1.Agricultural Advisory
+                    2.Food Advisory
+                    3.Weather Forecast
+                    4.Give Feedback
+                    0.Exit
+[ content=, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 1.Agricultural Advisory
+                    2.Food Advisory
+                    3.Weather Forecast
+                    4.Give Feedback
+                    0.Exit
+[ content=2, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Food Security advise
+                    1.Hunger forecast
+                    2.Food storage tips
+                    00.Back
+[ content=2, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=2, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=3, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=3, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=00, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=00, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=00, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Select Option
+                    1.Planting advice
+                    2.Harvesting advice
+                    3.Pests and Diseases
+                    00.Back
+[ content=2, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region
+                    1.Lake victoria basin
+                    2.Western
+                    3.Central
+                    4.Northern
+                    00.Back
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=0, sessionId=123223, phonenumber=123445, servicecode=5768745]
+[ content=, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    00.Back
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=123223, phonenumber=123445, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=123, phonenumber=123445, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=, sessionId=123, phonenumber=123445, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=2343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=1, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    00.Back
+[ content=, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=23434343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=1, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    00.Back
+[ content=00, sessionId=434343, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=1, sessionId=434343, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    00.Back
+[ content=1, sessionId=43343, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=, sessionId=43343, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=43343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=43343, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=435543, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=435543, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=, sessionId=45543, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=45543, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=1, sessionId=45543, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    5.Eastern-
+                    00.Back
+[ content=1, sessionId=45543, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=2, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    5.Eastern-
+                    00.Back
+[ content=2, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=2, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=2, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=2, sessionId=4558843, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=2, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    5.Eastern-
+                    00.Back
+[ content=3, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=3, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=3, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=3, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message :=  Select Category-
+                    1.Agricultural Advisory-
+                    2.Food Advisory-
+                    3.Weather Forecast-
+                    4.Give Feedback-
+                    0.Exit
+[ content=1, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message := Select Option-
+                    1.Planting advice-
+                    2.Harvesting advice-
+                    3.Pests and Diseases-
+                    00.Back
+[ content=2, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message := Please select your region-
+                    1.Lake victoria basin-
+                    2.Western-
+                    3.Central-
+                    4.Northern-
+                    5.Eastern-
+                    00.Back
+[ content=1, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=1, sessionId=333, phonenumber=12345, servicecode=5768745]
+Selected response message := 
+[ content=, sessionId=003, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=003, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=003, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=003, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=003, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=03, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=03, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=03, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=03, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=03, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0053, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=4, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=2343, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=2343, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0953, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=3, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=09053, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=053, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=04453, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=0453, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=0453, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=0453, phonenumber=12345, servicecode=5768745]
+[ content=21, sessionId=0453, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=23643, phonenumber=12345, servicecode=5768745]
+[ content=, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=1, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=2344643, phonenumber=12345, servicecode=5768745]
+[ content=2, sessionId=2344643, phonenumber=12345, servicecode=5768745]
